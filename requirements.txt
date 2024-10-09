@@ -1,0 +1,11 @@
+# Python version requirement
+# Python>=3.8,<4.0
+
+# Django framework
+Django>=4.0,<5.0
+
+# Django Rest Framework for building RESTful APIs
+djangorestframework>=3.12,<4.0
+
+# For testing
+djangorestframework-simplejwt>=4.0  # If you plan to add JWT for authentication in the future
